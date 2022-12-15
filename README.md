@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nsnguyen&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsnguyen&theme=onedark&hide_border=true"/><br/>
@@ -22,7 +21,10 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsnguyen&show_icons=true&theme=transparent&&include_all_commits=true&count_private=true")
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nsnguyen&theme=monokai&hide_border=true&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsnguyen&theme=monokai&hide_border=true"/><br/>
+</div>
 
 
 

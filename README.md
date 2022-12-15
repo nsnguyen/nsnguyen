@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -21,3 +20,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsnguyen&theme=onedark&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsnguyen&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br/>
 </div>
+-->
+
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsnguyen&show_icons=true&theme=transparent)
+
+
+

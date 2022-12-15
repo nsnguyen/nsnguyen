@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsnguyen&theme=onedark&hide_border=true&include_all_commits=false&count_private=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nsnguyen&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsnguyen&theme=onedark&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsnguyen&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/><br/>
 </div>

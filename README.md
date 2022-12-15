@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsnguyen&show_icons=true&theme=transparent)
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsnguyen&show_icons=true&theme=transparent&&include_all_commits=true&count_private=true")
 
 
 

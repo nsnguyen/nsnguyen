@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsnguyen&theme=monokai&hide_border=true&include_all_commits=true&count_private=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsnguyen&theme=monokai&hide_border=true"/><br/>
 </div>
 
